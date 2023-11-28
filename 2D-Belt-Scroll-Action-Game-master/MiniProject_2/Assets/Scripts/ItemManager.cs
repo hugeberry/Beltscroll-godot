@@ -1,0 +1,10 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ItemManager : MonoBehaviour
+{
+    public string name;
+    public int maxPrice;
+    public int minPrice;
+}

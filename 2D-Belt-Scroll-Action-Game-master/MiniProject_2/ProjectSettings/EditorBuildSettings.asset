@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Complte/Title/Splash.unity
+    guid: 4406aad65001e284484fa737d96464ee
+  - enabled: 1
+    path: Assets/Scenes/Complte/Title/login.unity
+    guid: cf65971ce2e59564aa4dc85900fb8666
+  - enabled: 1
+    path: Assets/Scenes/Complte/Title/Title.unity
+    guid: a9671948035e0b74eb0bb7a5eca46454
+  - enabled: 1
+    path: Assets/Scenes/Complte/Title/Movie.unity
+    guid: 51944e1a02e664247ab4e55710fc0341
+  - enabled: 1
+    path: Assets/Scenes/Complte/MainScene.unity
+    guid: 67718941ecd52f44bbb28ff0b5441ce9
+  - enabled: 1
+    path: Assets/Scenes/Complte/Stage/Stage1.unity
+    guid: ce0507dcb90c7ab4db8c655ba38e054c
+  - enabled: 1
+    path: Assets/Scenes/Complte/Stage/Stage2.unity
+    guid: b692f7ebc81f1884a87a0ebec78a29e9
+  - enabled: 1
+    path: Assets/Scenes/Complte/Stage/Stage3.unity
+    guid: d2c981a44b509b842b8777dbbf11d38e
+  - enabled: 1
+    path: Assets/Scenes/EX.unity
+    guid: 8425d29c9119ee54a9dca0b082cb5b93
+  m_configObjects: {}

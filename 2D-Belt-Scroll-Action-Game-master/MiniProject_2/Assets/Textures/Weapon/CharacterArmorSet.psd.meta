@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 727e923afd0b1c8449307cec50c3f48b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2651062102539262927
+    second: R_Arm_upper_Tropical
+  - first:
+      213: 2912606913479312607
+    second: L_Arm_upper_Tropical
+  - first:
+      213: -7871297897116279834
+    second: R_Arm_upper_Florida
+  - first:
+      213: 1626748172693503385
+    second: L_Arm_upper_Florida
+  - first:
+      213: -2154137077410774760
+    second: R_Arm_upper_Diver
+  - first:
+      213: -6987595452432400980
+    second: L_Arm_upper_Diver
+  - first:
+      213: 6136654784252001678
+    second: Armor_Tropical
+  - first:
+      213: 7238526490957998948
+    second: R_Arm_lower_Tropical
+  - first:
+      213: 3008522590951797569
+    second: L_Arm_lower_Tropical
+  - first:
+      213: -7069259955592168828
+    second: R_Arm_lower_Florida
+  - first:
+      213: 3727822015845290649
+    second: L_Arm_lower_Florida
+  - first:
+      213: -7368399321824723896
+    second: R_Arm_lower_Diver
+  - first:
+      213: -8697688102087351301
+    second: L_Arm_lower_Diver
+  - first:
+      213: -3453342177114259388
+    second: R_Leg_upper_Tropical
+  - first:
+      213: 5820158718555885717
+    second: L_Leg_upper_Tropical
+  - first:
+      213: 4520327554338094279
+    second: R_Leg_upper_Florida
+  - first:
+      213: -2638599922783335112
+    second: L_Leg_upper_Florida
+  - first:
+      213: 3411117645565100879
+    second: R_Leg_upper_Diver
+  - first:
+      213: 7970825728276557210
+    second: L_Leg_upper_Diver
+  - first:
+      213: 6277940311166254938
+    second: Armor_Florida
+  - first:
+      213: -8114281829006383286
+    second: Body_Tropical
+  - first:
+      213: 2894354441772955845
+    second: Body_Florida
+  - first:
+      213: -562325793720872883
+    second: Body_Diver
+  - first:
+      213: -1453796524607608225
+    second: Armor_Diver
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: R_Arm_upper_Tropical
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 509
+        width: 77
+        height: 96
+      alignment: 9
+      pivot: {x: 0.6638359, y: 0.7409185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a1075688a1bf74b9b1c0f013799f76
+      internalID: -2651062102539262927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Arm_upper_Tropical
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 518
+        width: 90
+        height: 87
+      alignment: 9
+      pivot: {x: 0.2780626, y: 0.7295904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9e75db344e3af408a1c1fd6e6c59d6
+      internalID: 2912606913479312607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Arm_upper_Florida
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 509
+        width: 77
+        height: 96
+      alignment: 9
+      pivot: {x: 0.6638359, y: 0.7409185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baa135156017d04b9b417d14f514df1
+      internalID: -7871297897116279834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Arm_upper_Florida
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 518
+        width: 90
+        height: 87
+      alignment: 9
+      pivot: {x: 0.2780626, y: 0.7295904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77a47e797a421c4385435c1891ccad2
+      internalID: 1626748172693503385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Arm_upper_Diver
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 508
+        width: 77
+        height: 96
+      alignment: 9
+      pivot: {x: 0.6638359, y: 0.7409185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc58b885f0bd6dd4caeef2a084cbf6ee
+      internalID: -2154137077410774760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Arm_upper_Diver
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 518
+        width: 90
+        height: 87
+      alignment: 9
+      pivot: {x: 0.2780626, y: 0.7295904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c465ad2134c85d64b8271940bd076917
+      internalID: -6987595452432400980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor_Tropical
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 403
+        width: 150
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da2b6009d0196643ab4e3fbf346b49c
+      internalID: 6136654784252001678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Arm_lower_Tropical
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 378
+        width: 71
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5615097, y: 0.7996841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a09e6e173ee934a93af059cae76841
+      internalID: 7238526490957998948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Arm_lower_Tropical
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 405
+        width: 114
+        height: 94
+      alignment: 9
+      pivot: {x: 0.2250495, y: 0.3384857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0df18f3f03a0240b9c219636b7b224
+      internalID: 3008522590951797569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Arm_lower_Florida
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 378
+        width: 71
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5972144, y: 0.7996844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fbd6cac80ef4d4783eeb55298795c9
+      internalID: -7069259955592168828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Arm_lower_Florida
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 405
+        width: 114
+        height: 94
+      alignment: 9
+      pivot: {x: 0.2250495, y: 0.3384857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98814515a8ce94548b19fb5b27c527af
+      internalID: 3727822015845290649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Arm_lower_Diver
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 373
+        width: 84
+        height: 126
+      alignment: 9
+      pivot: {x: 0.6251526, y: 0.7836793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7cc5c5826942944b427deb22ed2168
+      internalID: -7368399321824723896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Arm_lower_Diver
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 396
+        width: 130
+        height: 102
+      alignment: 9
+      pivot: {x: 0.2250491, y: 0.262946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29a126f5e94a564189acb96ce9a2b64
+      internalID: -8697688102087351301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Leg_upper_Tropical
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 284
+        width: 108
+        height: 83
+      alignment: 9
+      pivot: {x: 0.509734, y: 0.8293174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d740ca388be82a3448f1a127318531e6
+      internalID: -3453342177114259388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Leg_upper_Tropical
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 284
+        width: 108
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5097334, y: 0.8293174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c41a5badac2064eaa70cd4f8c01d11
+      internalID: 5820158718555885717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Leg_upper_Florida
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 284
+        width: 108
+        height: 83
+      alignment: 9
+      pivot: {x: 0.509734, y: 0.8293174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cdd8c92e9a79047814153ae9c7ce4f
+      internalID: 4520327554338094279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Leg_upper_Florida
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 285
+        width: 108
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5097334, y: 0.8293174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec5e7ae1ad544449a13d781ee7659d8
+      internalID: -2638599922783335112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Leg_upper_Diver
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 284
+        width: 108
+        height: 83
+      alignment: 9
+      pivot: {x: 0.509734, y: 0.8293174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70436b359dc6a53488af9683ae2ffa5d
+      internalID: 3411117645565100879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Leg_upper_Diver
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 284
+        width: 108
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5097334, y: 0.8293174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31df646029a22e345b15b332340addfd
+      internalID: 7970825728276557210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor_Florida
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 199
+        width: 151
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c7c13ba495e9c409b95052a411a95c
+      internalID: 6277940311166254938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Tropical
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 16
+        width: 186
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4943478, y: 0.02859179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f11170977f5dea41a0c27ee5007237e
+      internalID: -8114281829006383286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Florida
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 16
+        width: 186
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4943478, y: 0.02859179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3206b0fcb30c27e4c96969793c2e9074
+      internalID: 2894354441772955845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_Diver
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 16
+        width: 186
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4943478, y: 0.02859179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6181b3e22c48a8e498618d1386d205f0
+      internalID: -562325793720872883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor_Diver
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 12
+        width: 151
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c52ab2b98afcc647a2fcc281f7f199d
+      internalID: -1453796524607608225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1857c4e5ec198924aa0e8885ae15efb1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

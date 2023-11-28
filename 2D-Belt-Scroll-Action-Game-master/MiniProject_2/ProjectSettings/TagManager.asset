@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Weapon
+  - Enemy
+  - PlayerArea
+  - PlayerTrigger
+  - M_Bullet
+  - TarrteaArray
+  - FxTemporaire
+  - BurgyArray
+  - BurgiArray
+  - Explosion
+  - CoinArray
+  - TracanArray
+  - PotionArray
+  - SkillPoint
+  - LaserPosition
+  - L_hand_Weapon
+  - R_hand_Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Player
+  - DropItem
+  - Weapon
+  - Plane
+  - Shadow
+  - Death
+  - Coin
+  - Bomb
+  - PlayerPlane
+  - Boss
+  - Defend
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player_BackHand
+    uniqueID: 1221045479
+    locked: 0
+  - name: P_MainWeapon
+    uniqueID: 752583993
+    locked: 0
+  - name: p_DropItem
+    uniqueID: 3137152539
+    locked: 0
+  - name: Player
+    uniqueID: 1373862873
+    locked: 0
+  - name: M_TrashBag
+    uniqueID: 2310172205
+    locked: 0
+  - name: M_TackoutCup
+    uniqueID: 3442978531
+    locked: 0
+  - name: Partide
+    uniqueID: 2234122417
+    locked: 0
+  - name: Front
+    uniqueID: 2678667049
+    locked: 0
